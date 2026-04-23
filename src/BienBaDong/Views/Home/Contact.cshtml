@@ -1,0 +1,54 @@
+﻿@model BienBaDong.Models.Contact
+@{
+    ViewBag.Title = "Liên hệ";
+}
+
+<div class="container mt-5 mb-5">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="card shadow-sm">
+                <div class="card-header bg-primary text-white text-center">
+                    <h4 class="mb-0">Gửi Lời Nhắn Cho Chúng Tôi</h4>
+                </div>
+                <div class="card-body p-4">
+                    @if (ViewBag.SuccessMessage != null)
+                    {
+                        <div class="alert alert-success">
+                            @ViewBag.SuccessMessage
+                        </div>
+                    }
+
+                    @using (Html.BeginForm("Contact", "Home", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-group mb-3">
+                            <label class="font-weight-bold">Họ và tên *</label>
+                            @Html.TextBoxFor(m => m.FullName, new { @class = "form-control", placeholder = "Nhập họ tên của bạn" })
+                            @Html.ValidationMessageFor(m => m.FullName, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label class="font-weight-bold">Email *</label>
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Nhập email liên hệ", type = "email" })
+                            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label class="font-weight-bold">Số điện thoại</label>
+                            @Html.TextBoxFor(m => m.Phone, new { @class = "form-control", placeholder = "Nhập số điện thoại" })
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label class="font-weight-bold">Nội dung *</label>
+                            @Html.TextAreaFor(m => m.Message, new { @class = "form-control", rows = "5", placeholder = "Bạn cần tư vấn thông tin gì?" })
+                            @Html.ValidationMessageFor(m => m.Message, "", new { @class = "text-danger" })
+                        </div>
+
+                        <button type="submit" class="btn btn-primary w-100">Gửi Liên Hệ</button>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

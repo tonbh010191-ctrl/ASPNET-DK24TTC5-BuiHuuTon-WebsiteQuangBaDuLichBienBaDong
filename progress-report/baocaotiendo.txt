@@ -1,0 +1,20 @@
+# 10/04/2026
+Nội dung công việc: Hoàn thiện hệ thống (Giao diện, Chức năng, Cơ sở dữ liệu).
+Về Cơ sở dữ liệu:
+Hoàn thiện sơ đồ quan hệ thực thể (Database Diagram) bao gồm các bảng cốt lõi: AdminAccounts, Contacts, Comment, Destinations
+Về Giao diện:
+Sử dụng Razor Engine kết hợp Bootstrap để xây dựng giao diện.
+Xây dựng các trang chính: Trang chủ, Trang chi tiết công thức, Quản lý công thức, Đăng món mới, Quản lý danh mục.
+Về Chức năng:
+Hoàn thiện cho phép người dùng xem chi tiết địa điểm du lịch, bình luận, liên hệ.
+Đăng nhập quản trị viên: quản lý danh sách điểm đến, thêm, sửa nội dung, upload ảnh, quản lý liên hệ và bình luận.
+
+
+# 22/04/2026
+Nội dung công việc: Tổng hợp và Cập nhật hồ sơ đồ án
+Cập nhật file báo cáo Word:
+Hệ thống hóa lại toàn bộ lý thuyết về kiến trúc ASP.NET MVC, công nghệ Entity Framework và hệ quản trị SQL Server.
+Viết chi tiết chương "Hiện thực hóa nghiên cứu", mô tả bài toán và vẽ lược đồ Use Case để minh họa.
+Chạy test chương trình và chụp ảnh màn hình các kết quả đạt được và đưa vào báo cáo để minh chứng cho sản phẩm.
+Đánh giá các mặt đạt được và thẳng thắn nhìn nhận những hạn chế.
+Đề xuất hướng phát triển trong tương lai.

@@ -1,0 +1,68 @@
+﻿@model IEnumerable<BienBaDong.Models.Destination>
+@{
+    ViewBag.Title = "Trang chủ - Du lịch Biển Ba Động";
+}
+
+<style>
+    .hero-badong {
+        /* Đổ bóng đen mờ để làm nổi bật chữ trắng, ảnh nền lấy tạm từ Unsplash */
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)), url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80') no-repeat center center;
+        background-size: cover;
+        color: white;
+        padding: 120px 0;
+        text-align: center;
+        margin-bottom: 50px;
+        border-radius: 0 0 15px 15px;
+    }
+
+    .card:hover {
+        transform: translateY(-5px);
+        transition: all 0.3s ease;
+        box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+    }
+</style>
+
+<div class="hero-badong shadow">
+    <div class="container">
+        <h1 class="display-4" style="font-weight: bold;">Khám Phá Biển Ba Động</h1>
+        <p class="lead" style="max-width: 800px; margin: 0 auto; line-height: 1.6;">
+            Chỉ cách Mỹ Tho khoảng một giờ chạy xe qua cầu Cổ Chiên, hãy đến và lắng nghe nhịp thở của đại dương, chiêm ngưỡng cánh đồng điện gió hoàng hôn và thưởng thức hải sản tươi ngon của miền duyên hải Trà Vinh.
+        </p>
+        <a href="#destinations" class="btn btn-warning btn-lg mt-4" style="border-radius: 30px; font-weight: bold; padding: 10px 30px;">
+            Lên Lịch Trình Ngay
+        </a>
+    </div>
+</div>
+
+<div id="destinations" class="container">
+    <div class="row text-center mb-5">
+        <div class="col-12">
+            <h2 class="text-uppercase" style="font-weight: bold; color: #2c3e50;">Điểm Đến Nổi Bật</h2>
+            <div style="width: 60px; height: 3px; background-color: #f39c12; margin: 10px auto;"></div>
+            <p class="text-muted">Những tọa độ không thể bỏ lỡ khi về với vùng biển phù sa</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4" style="margin-bottom: 30px;">
+                    <div class="card h-100 shadow-sm" style="border: none; border-radius: 10px; overflow: hidden;">
+                        <img src="@item.ImageUrl" class="card-img-top" alt="@item.Title" style="height: 250px; object-fit: cover;">
+                        <div class="card-body">
+                            <h5 class="card-title" style="font-weight: bold; color: #34495e;">@item.Title</h5>
+                            <p class="card-text" style="text-align: justify; color: #666;">
+                                @item.ShortDescription
+                            </p>
+                        </div>
+                        <div class="card-footer bg-white text-center" style="border-top: 1px solid #eee;">
+                            <a href="@Url.Action("Details", "Home", new { id = item.Id })" class="btn btn-outline-info btn-sm" style="border-radius: 20px;">Xem chi tiết</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+    </div>
+</div>

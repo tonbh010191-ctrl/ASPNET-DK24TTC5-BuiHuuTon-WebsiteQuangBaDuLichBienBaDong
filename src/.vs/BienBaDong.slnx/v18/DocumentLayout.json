@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|c:\\users\\tranhuylong\\source\\repos\\bienbadong\\bienbadong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|solutionrelative:bienbadong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|c:\\users\\tranhuylong\\source\\repos\\bienbadong\\bienbadong\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|solutionrelative:bienbadong\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|c:\\users\\tranhuylong\\source\\repos\\bienbadong\\bienbadong\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|solutionrelative:bienbadong\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|c:\\users\\tranhuylong\\source\\repos\\bienbadong\\bienbadong\\migrations\\202603312344140_addviewandcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|solutionrelative:bienbadong\\migrations\\202603312344140_addviewandcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|c:\\users\\tranhuylong\\source\\repos\\bienbadong\\bienbadong\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|solutionrelative:bienbadong\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|c:\\users\\tranhuylong\\source\\repos\\bienbadong\\bienbadong\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong\\BienBaDong.csproj|solutionrelative:bienbadong\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BienBaDong\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BienBaDong\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T23:46:35.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "BienBaDong\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "BienBaDong\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwEIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T23:46:06.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BienBaDong\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BienBaDong\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA7wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T23:44:42.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202603312344140_AddViewAndComment.cs",
+              "DocumentMoniker": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Migrations\\202603312344140_AddViewAndComment.cs",
+              "RelativeDocumentMoniker": "BienBaDong\\Migrations\\202603312344140_AddViewAndComment.cs",
+              "ToolTip": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Migrations\\202603312344140_AddViewAndComment.cs",
+              "RelativeToolTip": "BienBaDong\\Migrations\\202603312344140_AddViewAndComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T23:44:19.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "BienBaDong\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Models\\Comment.cs",
+              "RelativeToolTip": "BienBaDong\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T23:43:43.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "BienBaDong\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\tranhuylong\\source\\repos\\BienBaDong\\BienBaDong\\Models\\Destination.cs",
+              "RelativeToolTip": "BienBaDong\\Models\\Destination.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T23:43:02.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

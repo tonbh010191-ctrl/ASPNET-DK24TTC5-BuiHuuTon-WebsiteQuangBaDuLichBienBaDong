@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|e:\\tuanshiba\\webvieclam\\bienbadong\\bienbadong\\bienbadong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|e:\\tuanshiba\\webvieclam\\bienbadong\\bienbadong\\bienbadong\\areas\\admin\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|solutionrelative:areas\\admin\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|e:\\tuanshiba\\webvieclam\\bienbadong\\bienbadong\\bienbadong\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|solutionrelative:areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|e:\\tuanshiba\\webvieclam\\bienbadong\\bienbadong\\bienbadong\\areas\\admin\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|solutionrelative:areas\\admin\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|e:\\tuanshiba\\webvieclam\\bienbadong\\bienbadong\\bienbadong\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|e:\\tuanshiba\\webvieclam\\bienbadong\\bienbadong\\bienbadong\\migrations\\202604210551296_addnewdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|solutionrelative:migrations\\202604210551296_addnewdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|e:\\tuanshiba\\webvieclam\\bienbadong\\bienbadong\\bienbadong\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70E92F62-676A-4BE5-9913-16EB894D028B}|BienBaDong.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestinationsController.cs",
+              "DocumentMoniker": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Areas\\Admin\\Controllers\\DestinationsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DestinationsController.cs",
+              "ToolTip": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Areas\\Admin\\Controllers\\DestinationsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DestinationsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:12:38.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:12:37.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Areas\\Admin\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ContactsController.cs",
+              "ToolTip": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Areas\\Admin\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:12:28.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:07:45.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:52:07.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202604210551296_addNewDatabase.cs",
+              "DocumentMoniker": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Migrations\\202604210551296_addNewDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\202604210551296_addNewDatabase.cs",
+              "ToolTip": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Migrations\\202604210551296_addNewDatabase.cs",
+              "RelativeToolTip": "Migrations\\202604210551296_addNewDatabase.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:51:34.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-21T05:48:31.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "E:\\TuanShiba\\WebViecLam\\BienBaDong\\BienBaDong\\BienBaDong\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-21T05:45:19.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
